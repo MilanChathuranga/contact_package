@@ -1,0 +1,19 @@
+{
+    "name": "laravel/laravel",
+    "description": "Contact us package.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MilanChathuranga",
+            "email": "41052536+MilanChathuranga@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Contact\\": "src/"
+        }
+    }
+}
